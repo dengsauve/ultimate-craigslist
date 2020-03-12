@@ -1,0 +1,29 @@
+{
+  "name": "ultimate-craigslist",
+  "version": "1.0.0",
+  "description": "craigslist cli tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengsauve/ultimate-craigslist.git"
+  },
+  "keywords": [
+    "cli",
+    "cl",
+    "craigslist",
+    "command",
+    "line"
+  ],
+  "author": "dennis sauve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengsauve/ultimate-craigslist/issues"
+  },
+  "homepage": "https://github.com/dengsauve/ultimate-craigslist#readme",
+  "dependencies": {
+    "node-craigslist": "^2.1.0"
+  }
+}
